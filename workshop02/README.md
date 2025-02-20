@@ -1,4 +1,4 @@
-# Hi-Lo Game
+# 👹 Hi-Lo Game 👹
 
 Hi-Lo game is a fun game to let you use your luck to roll the dice 🎲 without any intent for any gambling and take real money
 
@@ -9,7 +9,7 @@ You have to enter to amount of the credit and select which option to play before
 > - High : won if sum of 3 dices more than or equal 12 and earn exactly amount you entered
 > - Mid : won if sum of 3 dices exactly equal to 11 and earn 5 times amount you entered
 > - Low : won if sum of 3 dices lower than or equal 10 and earn exactly amount you entered
-![alt text](./images/game%20design.png.png)
+![alt text](./images/game-design.png)
 
 ## Winning
 
